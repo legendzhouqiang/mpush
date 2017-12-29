@@ -26,6 +26,11 @@ import java.util.function.Predicate;
  * Created by ohun on 16/10/24.
  *
  * @author ohun@live.cn (夜色)
+ * @ClassName: Condition
+ * @Description: TODO(这里用一句话描述这个类的作用)
+ * @author pengzhouqiang
+ * @date 2017年12月29日 下午5:34:45
+ *
  */
 public interface Condition extends Predicate<Map<String, Object>> {
 }
